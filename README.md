@@ -14,6 +14,12 @@ yarn create svelte@latest
 yarn create svelte@latest my-app
 ```
 
+## Database
+
+```bash
+cargo prisma generate
+```
+
 ## Developing
 
 Once you've created a project and installed dependencies with `yarn install` (or `pyarn install` or `yarn`), start a development server:
